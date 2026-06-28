@@ -1,7 +1,7 @@
 Hello Everyone!!!
 
 I am a new learner.
-This is repo is just a practice purpose.
+This repo is just a practice purpose.
 I hope you understand.
 Thanks for looking into my repo.
 Bye All. :)
