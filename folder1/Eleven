@@ -1,0 +1,7 @@
+I have deleted this file by using below command
+--> rm -rf file_name
+Once you run the command the file will deleted.
+Now, we need to commit the change for complete deletion to track the deletion.
+----------------------------------------------------
+Next, I have revert it back by using the command below:
+git revert file_name
